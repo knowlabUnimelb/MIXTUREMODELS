@@ -1,0 +1,23 @@
+Capacity
+
+a1 = 10
+a2 = 10
+lambda_A = .05
+lambda_B = .05
+
+SIC
+a1 = 10
+a2 = 10
+lambda_H = .05
+lambda_L = .02
+
+CCF
+
+a1 = 3
+a2 = 3
+lambda_A = .02
+lambda_B = .02
+lambda_XL = .02
+lambda_YL = .02
+lambda_XH = .05
+lambda_YH = .05
